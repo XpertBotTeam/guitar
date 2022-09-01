@@ -4,7 +4,7 @@
 <title>Guitarica - @yield('title')</title>
 <meta name="keywords" content="guitar, guitars, shop, e-commerce, online shopping, music, instrument, cello, violin, cello, bass, amp, products, product, articles, article, strings, string, music shop, guitar shop">
 <meta name="description" content="Guitarica is the best music instrument shop in Belgrade">
-<meta name="author" content="Matija Davidovic">
+<meta name="author" content="Hani Masri">
 <meta name="csrf-token" content="{{ csrf_token() }}">
 <meta name="apple-mobile-web-app-title" content="Guitarica">
 <meta name="application-name" content="Guitarica">
